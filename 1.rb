@@ -2,3 +2,4 @@
 
 puts 'TEST! (gamiesai)'
 puts 'gamiesai omws!'
+puts 'laimai'
